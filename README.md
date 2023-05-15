@@ -5,7 +5,7 @@
 
 ## Hakkımda
 
-Sefflex olarak da bilinirim. Amatör bir oyun geliştiricisiyim ve oyunlar ve programlama dünyasına olan tutkumla kendi projelerimi geliştirmeye çalışıyorum. Unreal Engine oyun motoru ve Python programlama dili üzerinde deneyim sahibiyim. Aynı zamanda oyun tasarımı, grafikler ve kullanıcı deneyimi konularında da ilgiliyim. Yaratıcı fikirleri hayata geçirmek için çalışmalar yapıyorum ve sürekli olarak kendimi geliştirmek için yeni şeyler öğreniyorum. Projelerimi burada paylaşarak geliştirme sürecimdeki ilerlemeleri ve tecrübelerimi paylaşmak istiyorum.
+Sefflex olarak da bilinirim. Amatör bir oyun geliştiricisiyim. Oyunlar ve programlama dünyasına olan tutkumla kendi projelerimi geliştirmeye çalışıyorum. Unreal Engine oyun motoru ve Python programlama dili üzerinde deneyim sahibiyim. Aynı zamanda oyun tasarımı, grafikerlik ve kullanıcı deneyimi konularına da ilgiliyim. Yaratıcı fikirleri hayata geçirmek için çalışmalar yapıyorum ve sürekli olarak kendimi geliştirmek için yeni şeyler öğreniyorum. Projelerimi burada yayınlayarak geliştirme sürecimdeki ilerlemeleri ve tecrübelerimi paylaşmak istiyorum.
 
 ## Sosyal Medya
 
