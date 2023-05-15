@@ -23,7 +23,7 @@ Sefflex olarak da bilinirim. Amatör bir oyun geliştiricisiyim ve oyunlar ve pr
 
 ## İletişim
 - E-Posta: 21doruksari21@gmail.com
-- Discord: 
+- Discord: !₪ 𝙎𝙚𝙛𝙛𝙡𝙚𝙭 ⚡#5596
 
 ## Dil ve Araçlar
 
