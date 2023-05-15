@@ -22,8 +22,7 @@ Sefflex olarak da bilinirim. Amatör bir oyun geliştiricisiyim ve oyunlar ve pr
 | Proje 3      | Proje açıklaması 3 |
 
 ## İletişim
-
-[![E-posta](eposta.png)](21doruksari21@gmail.com)
+- E-Posta: 21doruksari21@gmail.com
 - Discord: 
 
 ## Dil ve Araçlar
