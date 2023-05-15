@@ -1,14 +1,11 @@
 # Merhaba, Benim Adım Rahmi Çınar SARİ
 
-Rahmi Çınar SARİ olarak da bilinirim. Amatör bir oyun geliştiricisiyim ve oyunlar ve programlama dünyasına olan tutkumla kendi projelerimi geliştirmeye çalışıyorum. Unreal Engine oyun motoru ve C# programlama dili üzerinde deneyim sahibiyim. Aynı zamanda oyun tasarımı, grafikler ve kullanıcı deneyimi konularında da ilgiliyim. Yaratıcı fikirleri hayata geçirmek için çalışmalar yapıyorum ve sürekli olarak kendimi geliştirmek için yeni şeyler öğreniyorum. Projelerimi burada paylaşarak geliştirme sürecimdeki ilerlemeleri ve tecrübelerimi paylaşmak istiyorum.
 
-🎮 Oyun Geliştirici | 🌐 Web Geliştirici | 💡 Yaratıcı Düşünür
-
-![Profil Resmi](resim_linki)
+🎮 Oyun Geliştirici | 🎬 Video Editörü | 💡 Yaratıcı Düşünür
 
 ## Hakkımda
 
-Merhaba! Ben Rahmi Çınar SARİ, amatör bir oyun geliştiricisiyim. Oyunlar ve programlama dünyasına olan tutkumla kendi projelerimi geliştirmeye çalışıyorum. Unreal Engine oyun motoru ve C# programlama dili üzerinde deneyim sahibiyim. Aynı zamanda oyun tasarımı, grafikler ve kullanıcı deneyimi konularında da ilgiliyim. Yaratıcı fikirleri hayata geçirmek için çalışmalar yapıyorum ve sürekli olarak kendimi geliştirmek için yeni şeyler öğreniyorum. Projelerimi burada paylaşarak geliştirme sürecimdeki ilerlemeleri ve tecrübelerimi paylaşmak istiyorum.
+Sefflex olarak da bilinirim. Amatör bir oyun geliştiricisiyim ve oyunlar ve programlama dünyasına olan tutkumla kendi projelerimi geliştirmeye çalışıyorum. Unreal Engine oyun motoru ve Python programlama dili üzerinde deneyim sahibiyim. Aynı zamanda oyun tasarımı, grafikler ve kullanıcı deneyimi konularında da ilgiliyim. Yaratıcı fikirleri hayata geçirmek için çalışmalar yapıyorum ve sürekli olarak kendimi geliştirmek için yeni şeyler öğreniyorum. Projelerimi burada paylaşarak geliştirme sürecimdeki ilerlemeleri ve tecrübelerimi paylaşmak istiyorum.
 
 ## Sosyal Medya
 
@@ -26,13 +23,12 @@ Merhaba! Ben Rahmi Çınar SARİ, amatör bir oyun geliştiricisiyim. Oyunlar ve
 
 ## İletişim
 
-- E-posta: email@example.com
-- LinkedIn: [Profiliniz](https://www.linkedin.com/in/profiliniz)
-- Kişisel Web Sitesi: [example.com](https://www.example.com)
+- E-posta: 21doruksari21@gmail.com
+- Discord: 
 
 ## Dil ve Araçlar
 
 - Unreal Engine
-- C#
+- Blander (Animasyon Motoru)
 - Python
-- Araç
+- KdenLive
