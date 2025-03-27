@@ -1,7 +1,7 @@
 # Merhaba, Ben Rahmi Çınar SARİ
 
 
-🎮 Oyun Geliştirici | 🎬 Video Editörü | 💡 Yaratıcı Düşünür
+🎮 Oyun Geliştirici | 🎬 Video Editörü 
 
 ## Hakkımda
 
